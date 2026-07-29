@@ -109,5 +109,11 @@ var (
 		"ptb":         true,
 		"funtoken":    true,
 		"hmstr":       true,
+		"elizaos":     true,
+		"not":         true,
+		"bnkr":        true,
+		"ckb":         true,
+		"xem":         true,
+		"sc":          true,
 	}
 )
