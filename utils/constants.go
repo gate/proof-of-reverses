@@ -115,5 +115,11 @@ var (
 		"ckb":         true,
 		"xem":         true,
 		"sc":          true,
+		"kas":         true,
+		"ab":          true,
+		"cate":        true,
+		"grok":        true,
+		"one":         true,
+		"pact":        true,
 	}
 )
